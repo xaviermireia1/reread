@@ -216,4 +216,7 @@ div.gallery:hover {
     .header {
         padding: 5px;
     }
+    .header p {
+        padding: 0 5%;
+    }
 }
