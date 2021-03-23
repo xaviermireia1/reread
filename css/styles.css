@@ -213,4 +213,7 @@ div.gallery:hover {
         margin: auto;
         width: 80%;
     }
+    .header {
+        padding: 5px;
+    }
 }
