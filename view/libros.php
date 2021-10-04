@@ -24,9 +24,9 @@
     <div class="row">
         <div class="column middle">
             <div class="topnav">
-                <a href="../index.html">Re-Read</a>
-                <a href="libros.html" class="active">Libros</a>
-                <a href="ebooks.html">eBooks</a>
+                <a href="index.php">Re-Read</a>
+                <a href="libros.php" class="active">Libros</a>
+                <a href="ebooks.php">eBooks</a>
             </div>
             <div class="textpage">
                 <h3>Todos los libros tienen el mismo precio</h3>
@@ -44,7 +44,8 @@
                 </div>
                 <h3>¿Te cambias de piso? ¿Tienes que vaciar la casa? ¿O sencillamente necesitas algo más de espacio?</h3>
                 <p>En Re-Read compramos tus libros para darles una segunda vida. Los compramos todos al mismo precio: 0,20 euros. Siempre hay libros leídos y libros por leer. Por eso Re-compramos y Re-vendemos para que nunca te quedes sin ninguno de los
-                    dos.</p>
+                    dos.
+                </p>
             </div>
         </div>
 
