@@ -196,6 +196,9 @@ div.gallery:hover {
 .clear {
     clear: both;
 }
+p{
+    font-size: 20px;
+}
 
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
