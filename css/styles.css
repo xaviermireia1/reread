@@ -94,6 +94,7 @@ body {
     padding: 14px 16px;
     text-decoration: none;
     color: black;
+    font-size: 15px;
 }
 
 
@@ -197,6 +198,9 @@ div.gallery:hover {
     clear: both;
 }
 p{
+    font-size: 17px;
+}
+h3{
     font-size: 20px;
 }
 
