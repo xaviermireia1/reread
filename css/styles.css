@@ -1,4 +1,4 @@
-/*Recordemos algunos términos:
+/*Algunos términos:
     width - ancho
     height - alto (altura)
     padding - relleno
@@ -120,7 +120,7 @@ body {
 
 .column {
     float: left;
-    padding: 10px;
+    padding: 15px;
 }
 
 .textpage {
